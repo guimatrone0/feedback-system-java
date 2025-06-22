@@ -1,18 +1,20 @@
-# feedback-system-java
-# Sistema Inteligente de Feedback em Java
+📝 Sistema Inteligente de Feedback em Java
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java Logo"> </p>
+Um sistema de análise de feedbacks com classificação automática de sentimentos, desenvolvido em Java.
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java")
+✨ Funcionalidades
+🗣️ Cadastro de feedbacks com texto e pontuação
 
-Um sistema inteligente de análise de feedback que classifica comentários como positivos, negativos ou neutros usando processamento básico de linguagem natural.
+🤖 Análise automática de sentimento (positivo/negativo/neutro)
 
-## Funcionalidades
+📊 Filtragem por categoria e sentimento
 
-- Cadastro de feedbacks com texto, autor e categoria
-- Análise automática de sentimento
-- Filtragem por sentimento (positivo, negativo, neutro)
-- Armazenamento em memória (podendo ser extendido para banco de dados)
+💾 Armazenamento em memória (facilmente extensível para banco de dados)
 
-## Tecnologias
+🛠️ Tecnologias
 
-- Java 22+
-- Maven (para gerenciamento de dependências)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache" title="Apache Maven">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git">
+</div>
