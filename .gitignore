@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Sistema
+.DS_Store
+*.log
