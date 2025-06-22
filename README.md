@@ -1,7 +1,7 @@
 # feedback-system-java
 # Sistema Inteligente de Feedback em Java
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
 Um sistema inteligente de análise de feedback que classifica comentários como positivos, negativos ou neutros usando processamento básico de linguagem natural.
 
